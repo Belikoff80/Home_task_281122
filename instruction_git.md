@@ -28,6 +28,7 @@ The task is: to describe few functions of git version control and implement corr
 * git log --oneline - function allow to see descriptions of versions in more accaptable view
 * git log --oneline --all - function do the same action as function git log --oneline 
 * git diff - function couse description of versions to see diffirences between actul version and earlier versions 
+* git check out 
 
 
 
