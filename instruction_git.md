@@ -22,6 +22,8 @@ to add changing at index for next commit need input comand:
 
 The task is: to describe few functions of git version control and emplement correct saving of new versions of documentation 
 
+* git commit - function confirmes saving and adds description of changes into the new version
+
 
 
 
