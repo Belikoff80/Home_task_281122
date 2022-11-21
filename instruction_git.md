@@ -19,3 +19,4 @@ to add changing at index for next commit need input comand:
     git add <filename>
 
 
+
