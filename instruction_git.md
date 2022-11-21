@@ -18,5 +18,14 @@ to add changing at index for next commit need input comand:
 
     git add <filename>
 
+# **Futher is started home task action 211122**
+
+The task is: to describe few functions of git version control and emplement correct saving of new versions of documentation 
+
+
+
+
+
+
 
 
