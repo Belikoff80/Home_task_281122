@@ -20,10 +20,11 @@ to add changing at index for next commit need input comand:
 
 # **Futher is started home task action 211122**
 
-The task is: to describe few functions of git version control and emplement correct saving of new versions of documentation 
+The task is: to describe few functions of git version control and implement correct saving of new versions of documentation 
 
 * git commit -m - function confirmes saving and adds description of changes into the new version
-* 
+* git commit -a -m - function allows to implement both comands (add+message) in one click
+
 
 
 
