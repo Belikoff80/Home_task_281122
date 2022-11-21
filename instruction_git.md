@@ -24,6 +24,8 @@ The task is: to describe few functions of git version control and implement corr
 
 * git commit -m - function confirmes saving and adds description of changes into the new version
 * git commit -a -m - function allows to implement both comands (add+message) in one click
+* git log  - function allows to couse version's consecutive range of changes with description
+
 
 
 
