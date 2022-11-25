@@ -39,5 +39,12 @@ The task is: to describe few functions of git version control and implement corr
 
 # Actions with branches at git
 
+For that to manage by actions with branches of chages should use following commands:
+
++ branch <name of branch> 
+
++ branch -f <name>
+
++ branch -d <name>
 
 
