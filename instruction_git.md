@@ -55,5 +55,5 @@ for cases we need to connect two branches available following functions:
 At the some sitution cold be easer to use graphical properties of git. For instace, if needed to see thr path of branch available following commands:
 
 + log --graph
-
+##### following command allows to look on short graphical view of one branch
 + log --graph --oneline --all
