@@ -53,3 +53,7 @@ for cases we need to connect two branches available following functions:
 
 # Graphical vision of tree 
 At the some sitution cold be easer to use graphical properties of git. For instace, if needed to see thr path of branch available following commands:
+
++ log --graph
+
++ log --graph --oneline --all
