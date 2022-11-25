@@ -46,6 +46,7 @@ For that to manage by actions with branches of chages should use following comma
 ##### for that to create new branch we should use command above. then obligatery execute commit for both branches point of changes. to make sure every thing ok use command git status, git branch, git log and and git log --graph
 
 + branch -f <name>
+##### sometimes we need to relocate branch from parent's commit to another commit point. To achive a goal use <\git branch -f command>. In end of the process do not forget to execute saving steps (see above)
 
 + branch -d <name>
 
