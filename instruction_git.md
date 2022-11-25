@@ -42,3 +42,4 @@ The task is: to continue actions with earlier seminar's file
 
 
 
+see info into the master branch
