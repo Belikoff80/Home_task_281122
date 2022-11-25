@@ -44,3 +44,12 @@ The task is: to continue actions with earlier seminar's file
 
 For that to manage by actions with branches of chages should use following commands:
 
+
+# Functions of merging branches
+
+for cases we need to connect two branches available following functions:
+
++ merge <name>
+##### join two hystories of branches together
++ rebase <name>
+##### reapply commits on top of another base tip
