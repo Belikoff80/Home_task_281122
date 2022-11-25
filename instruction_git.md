@@ -50,3 +50,5 @@ for cases we need to connect two branches available following functions:
 ##### join two hystories of branches together
 + rebase <name>
 ##### reapply commits on top of another base tip
+
+# Graphical vision of tree 
