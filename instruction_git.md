@@ -74,3 +74,13 @@ For that to manage by actions with branches of chages should use following comma
 
 + branch -d <name>
 ##### if owner finished developing of child branch he should exports data of last commit to main parents branch. After that owner should delet child branch 
+<hr>
+
+## Graphical vision of tree
+
+At the some sitution cold be easer to use graphical properties of git. For instace, if needed to see thr path of branch available following commands:
+
++ log --graph
+##### following command allows to look on short graphical view of one branch
++ log --graph --oneline --all
+##### in cases we need to see whole tree completly we should use this one command>
