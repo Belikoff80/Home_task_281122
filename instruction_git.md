@@ -53,11 +53,10 @@ for cases we need to connect two branches available following functions:
 <hr>
 
 # Possibility to relocate HEAD inside of branch
-For that to manage by actions with branches of chages should use following commands:
 
-Whe we get needs to move from commit to commit following functions are available:
+If we get needs to move from commit to commit following functions are available:
 
 + checkout HEAD^
 ##### to mave HEAD point for 1 step down to tree use following command. After action keep in mind do not forget saving pcedures
 + checkout HEAD~num
-in case we need to move HEAD more then 1 step on tree use HEAD~num function where num is numbers of needed steps
+##### in case we need to move HEAD more then 1 step on tree use HEAD~num function where num is numbers of needed steps
