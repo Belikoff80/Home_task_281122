@@ -42,12 +42,11 @@ The task is: to describe few functions of git version control and implement corr
 For that to manage by actions with branches of chages should use following commands:
 
 + branch <name of branch> 
-
 ##### for that to create new branch we should use command above. then obligatery execute commit for both branches point of changes. to make sure every thing ok use command git status, git branch, git log and and git log --graph
 
 + branch -f <name>
 ##### sometimes we need to relocate branch from parent's commit to another commit point. To achive a goal use <\git branch -f command>. In end of the process do not forget to execute saving steps (see above)
 
 + branch -d <name>
-
+##### if owner finished developing of child branch he should exports data of last commit to main parents branch. After that owner should delet child branch 
 
