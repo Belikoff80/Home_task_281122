@@ -44,12 +44,3 @@ The task is: to continue actions with earlier seminar's file
 
 For that to manage by actions with branches of chages should use following commands:
 
-
-+ branch -f <name>
-##### sometimes we need to relocate branch from parent's commit to another commit point. To achive a goal use <\git branch -f command>. In end of the process do not forget to execute saving steps (see above)
-
-
-+ merge <name>
-##### join two hystories of branches together
-+ rebase <name>
-##### reapply commits on top of another base tip
