@@ -43,6 +43,8 @@ For that to manage by actions with branches of chages should use following comma
 
 + branch <name of branch> 
 
+##### for that to create new branch we should use command above. then obligatery execute commit for both branches point of changes. to make sure every thing ok use command git status, git branch, git log and and git log --graph
+
 + branch -f <name>
 
 + branch -d <name>
