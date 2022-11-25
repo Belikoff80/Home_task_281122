@@ -42,3 +42,5 @@ The task is: to continue actions with earlier seminar's file
 
 
 
+# Functions of merging branches
+
