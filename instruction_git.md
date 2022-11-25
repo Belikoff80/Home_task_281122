@@ -52,3 +52,4 @@ for cases we need to connect two branches available following functions:
 ##### reapply commits on top of another base tip
 
 # Graphical vision of tree 
+At the some sitution cold be easer to use graphical properties of git. For instace, if needed to see thr path of branch available following commands:
