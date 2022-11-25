@@ -40,11 +40,14 @@ The task is: to continue actions with earlier seminar's file
 1. create and merge at least 4 branches
 2. creat and find solutions for conflicts
 
+# Actions with branches at git
+
+For that to manage by actions with branches of chages should use following commands:
 
 
-# Functions of merging branches
++ branch -f <name>
+##### sometimes we need to relocate branch from parent's commit to another commit point. To achive a goal use <\git branch -f command>. In end of the process do not forget to execute saving steps (see above)
 
-for cases we need to connect two branches available following functions:
 
 + merge <name>
 ##### join two hystories of branches together
