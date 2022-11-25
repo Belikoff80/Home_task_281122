@@ -44,3 +44,7 @@ The task is: to continue actions with earlier seminar's file
 # Possibility to relocate HEAD inside of branch
 
 Whe we get needs to move from commit to commit following functions are available:
+
++ checkout HEAD^
+
++ checkout HEAD~num
