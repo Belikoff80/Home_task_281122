@@ -60,3 +60,17 @@ If we get needs to move from commit to commit following functions are available:
 ##### to mave HEAD point for 1 step down to tree use following command. After action keep in mind do not forget saving pcedures
 + checkout HEAD~num
 ##### in case we need to move HEAD more then 1 step on tree use HEAD~num function where num is numbers of needed steps
+<hr>
+
+## Actions with branches at git
+
+For that to manage by actions with branches of chages should use following commands:
+
++ branch <name of branch> 
+##### for that to create new branch we should use command above. then obligatery execute commit for both branches point of changes. to make sure every thing ok use command git status, git branch, git log and and git log --graph
+
++ branch -f <name>
+##### sometimes we need to relocate branch from parent's commit to another commit point. To achive a goal use <\git branch -f command>. In end of the process do not forget to execute saving steps (see above)
+
++ branch -d <name>
+##### if owner finished developing of child branch he should exports data of last commit to main parents branch. After that owner should delet child branch 
