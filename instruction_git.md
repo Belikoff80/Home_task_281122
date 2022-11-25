@@ -42,18 +42,18 @@ The task is: to continue actions with earlier seminar's file
 
 # Actions with branches at git
 
-For that to manage by actions with branches of chages should use following commands:
-
-# Possibility to relocate HEAD inside of branch
-
 # Functions of merging branches
-
 for cases we need to connect two branches available following functions:
 
 + merge <name>
 ##### join two hystories of branches together
 + rebase <name>
 ##### reapply commits on top of another base tip
+
+
+# Possibility to relocate HEAD inside of branch
+For that to manage by actions with branches of chages should use following commands:
+
 Whe we get needs to move from commit to commit following functions are available:
 
 + checkout HEAD^
