@@ -50,6 +50,7 @@ for cases we need to connect two branches available following functions:
 + rebase <name>
 ##### reapply commits on top of another base tip
 
+<hr>
 
 # Possibility to relocate HEAD inside of branch
 For that to manage by actions with branches of chages should use following commands:
