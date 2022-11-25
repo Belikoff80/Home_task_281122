@@ -31,6 +31,9 @@ The task is: to describe few functions of git version control and implement corr
 * git checkout \<hash> - this is special function allows using direct name of earliest version go back to search it 
 * git checkout master - function allows to go back from earlier to actual version, after was caused checkout \<hash> function 
 
+<hr>
+
+    ## Home Task 241122
 
 
 
