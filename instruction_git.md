@@ -36,7 +36,9 @@ The task is: to describe few functions of git version control and implement corr
     ## Home Task 241122
 
 
-
+The task is: to continue actions with earlier seminar's file
+1. create and merge at least 4 branches
+2. creat and find solutions for conflicts
 
 
 
