@@ -44,3 +44,8 @@ The task is: to continue actions with earlier seminar's file
 
 # Functions of merging branches
 
+for cases we need to connect two branches available following functions:
+
++ merge <name>
+
++ rebase <name>
