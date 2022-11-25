@@ -33,7 +33,7 @@ The task is: to describe few functions of git version control and implement corr
 
 <hr>
 
-    ## Home Task 241122
+# Home Task 241122
 
 
 The task is: to continue actions with earlier seminar's file
@@ -42,7 +42,7 @@ The task is: to continue actions with earlier seminar's file
 
 # Actions with branches at git
 
-# Functions of merging branches
+## Functions of merging branches
 for cases we need to connect two branches available following functions:
 
 + merge <name>
@@ -52,7 +52,7 @@ for cases we need to connect two branches available following functions:
 
 <hr>
 
-# Possibility to relocate HEAD inside of branch
+## Possibility to relocate HEAD inside of branch
 
 If we get needs to move from commit to commit following functions are available:
 
