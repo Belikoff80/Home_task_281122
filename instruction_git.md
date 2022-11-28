@@ -105,7 +105,10 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 10. made changes at three 
 
+<hr>
+<hr>
 
+# Finale Home Work 271122
 
 
 
