@@ -91,3 +91,5 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 4 from master add two
 
 6 add three
+
+7 add info to three
