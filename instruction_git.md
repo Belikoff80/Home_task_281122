@@ -110,5 +110,7 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 # Finale Home Work 271122
 
+## Pushing original file to remote repository 
 
+Before start file remote pushing should create remote repository on Git hub portal. Before doing it, personal account has been created on git hub portal.
 
