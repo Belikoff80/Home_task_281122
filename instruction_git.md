@@ -114,6 +114,8 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 Before start file remote pushing should create remote repository on Git hub portal. Before doing it, personal account has been created on git hub portal.
 
+<hr>
+
 ## Pulling remote changing to original file
     
 Sometimes we need to input changes when origin file isn't available. In that case we able to use git hub editor for changing. Then locally we should use pull command at VS studio to bring new changes at file localy 
