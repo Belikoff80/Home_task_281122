@@ -103,6 +103,9 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 9. test with incomming
 
+10. made changes at three 
+
+
 
 
 
