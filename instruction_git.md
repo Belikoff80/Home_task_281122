@@ -86,3 +86,4 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 ##### in cases we need to see whole tree completly we should use this one command>
 
 1 master branch
+2 added one
