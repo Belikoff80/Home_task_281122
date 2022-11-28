@@ -84,3 +84,5 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 ##### following command allows to look on short graphical view of one branch
 + log --graph --oneline --all
 ##### in cases we need to see whole tree completly we should use this one command>
+
+1 master branch
