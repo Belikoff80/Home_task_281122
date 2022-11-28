@@ -85,23 +85,23 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 + log --graph --oneline --all
 ##### in cases we need to see whole tree completly we should use this one command>
 
-1 master branch
+1. master branch
 
-2 added one
+2. added one
 
-3 add info to one 
+3. add info to one 
 
-4 from master add two
+4. from master add two
 
-5 add info to two
+5. add info to two
 
-6 add three
+6. add three
 
-6 add three
+6. add three
 
-7 add info to three
+7. add info to three
 
-8 start merging 
+8. start merging 
 
 
 
