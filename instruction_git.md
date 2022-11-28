@@ -97,7 +97,12 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 6 add three
 
+6 add three
+
+7 add info to three
+
 8 start merging 
+
 
 
 
