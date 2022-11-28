@@ -93,6 +93,11 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 4 from master add two
 
+5 add info to two
+
 6 add three
 
 8 start merging 
+
+
+
