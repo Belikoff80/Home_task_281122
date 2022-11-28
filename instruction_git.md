@@ -87,3 +87,5 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 1 master branch
 2 added one
+
+4 from master add two
