@@ -101,6 +101,7 @@ At the some sitution cold be easer to use graphical properties of git. For insta
 
 8. start merging 
 
+10. made changes at three 
 
 
 
